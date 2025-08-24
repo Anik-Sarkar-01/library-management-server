@@ -1,5 +1,5 @@
 
-# 📚 Library Management System Server
+# 📚 Library Management System (Server)
 
 Backend of a simple Library Management System built with **TypeScript**, **Express**, **MongoDB** (via Mongoose).This API allows users to manage books, borrow books, and monitor availability and borrowing statistics.
 
