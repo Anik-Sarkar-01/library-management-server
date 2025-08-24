@@ -1,7 +1,7 @@
 
 # 📚 Library Management System Server
 
-A Library Management System Server developed with **TypeScript**, **Express**, **MongoDB** (via Mongoose).This API allows users to manage books, borrow books, and monitor availability and borrowing statistics.
+Backend of a simple Library Management System built with **TypeScript**, **Express**, **MongoDB** (via Mongoose).This API allows users to manage books, borrow books, and monitor availability and borrowing statistics.
 
 ---
 
@@ -33,8 +33,8 @@ A Library Management System Server developed with **TypeScript**, **Express**, *
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Anik-Sarkar-01/library-management.git
-cd library-management
+git clone https://github.com/Anik-Sarkar-01/library-management-server.git
+cd library-management-server
 ```
 
 ### 2️⃣ Install Dependencies
